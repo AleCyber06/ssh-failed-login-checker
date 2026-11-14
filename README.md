@@ -117,4 +117,4 @@ This tool only reads logs, it never changes anything on the system. If you use i
 ## Author
 
 Ale, cybersecurity student at Florida International University
-[LinkedIn](#) | [GitHub](#)
+[LinkedIn](#www.linkedin.com/in/alejandromartinezcrespo) | [GitHub](#https://github.com/AleCyber06)
